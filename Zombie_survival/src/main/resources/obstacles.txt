@@ -1,0 +1,105 @@
+0 0 349 288 <black space + roof>
+158 282 180 152 <home 1 + garden 1>
+295 0 201 381 <home 2 + home 3>
+322 272 230 113 <homes' 2nd veranda>
+479 0 178 126 <up trees>
+634 0 116 125 <up homes' roof>
+655 119 82 56 <home up>
+746 0 38 105 <food>
+779 0 213 96 <bridge>
+800 160 33 63 <under bridge food>
+800 208 112 16 <under bridge food 2>
+832 160 6 16 <column>
+975 0 272 106 <big home roof 1>
+990 93 256 35 <big home 1>
+1007 115 240 103 <big home 2>
+1232 0 367 112 <big home roof 2>
+1358 107 63 95 <big home 3>
+1502 111 98 50 <big home 4>
+1473 194 127 175 <home right 1>
+1233 305 112 127 <right home 3>
+1523 420 77 81 <block>
+1550 498 50 268 <block 2>
+1466 608 85 18 <right stairs' border 1>
+1464 608 6 142 <right stairs' border 2>
+1468 618 84 52 <right down wall>
+1431 639 6 145 <right stairs' border 3>
+1505 721 94 126 <right water 1>
+1471 785 52 62 <right down water 2>
+1393 800 43 93 <right down water 3>
+1472 892 128 145 <right down water 4>
+1472 1084 128 419 <right down homes and watter>
+1592 1498 8 102 <right down border>
+1432 880 4 471 <right long border 1>
+1431 1347 6 152 <right long border 2>
+1431 1489 51 13 <right short border>
+1368 1376 67 141 <right down stairs>
+1397 1492 203 106 <right down block>
+642 1556 934 44 <down long hall 1>
+913 1452 210 148 <down home 1>
+707 1485 208 115 <down home 2>
+405 1450 321 150 <down enter to city>
+0 1539 423 57 <down long hall 2>
+1583 159 17 548 <border>
+1585 837 15 250 <broder 2>
+866 86 43 132 <up water>
+1 1443 257 157 <down home>
+0 995 99 458 <left border 1>
+0 767 162 314 <left border 2 + roof + water>
+1 579 189 160 <left home>
+0 737 191 157 <left border 3>
+182 785 29 109 <left water>
+0 280 27 320 <left last border>
+11 273 148 271 <left home>
+397 422 149 101 <middle  water>
+394 421 58 378 <middle water 2>
+258 794 270 97 <middle  water 3>
+290 562 111 236 <middle home>
+442 519 102 155 <middle home 2>
+258 891 238 183 <middle home 3>
+400 1090 93 28 <middle home 4>
+302 1091 82 63 <middle food>
+3 937 190 334 <middle home 5>
+3 1195 411 159 <middle home 6>
+796 131 2 27 <up border mini>
+653 445 65 48 <middle box>
+658 546 202 58 <middle home 8>
+831 319 79 72 <middle water 4>
+863 388 52 333 <middle water 5>
+751 496 111 40 <middle water 6>
+876 532 194 197 <middle home 9>
+860 715 191 209 <middle home 10>
+670 703 195 175 <middle home 11>
+719 876 153 49 <middle home 12>
+847 922 79 84 <middle home 13>
+1048 702 55 178 <middle home 13>
+1102 551 35 113 <middle water 7>
+1264 477 79 256 <middle home 14>
+1184 553 83 104 <middle home 15>
+1391 477 49 81 <middle home 16>
+1440 453 78 123 <middle home 17>
+1152 795 192 94 <middle home 18>
+1263 926 80 176 <middle home 19>
+1216 945 52 157 <middle home 20>
+1042 942 123 159 <middle home 21>
+<1003 1136 50 32 middle car>
+846 1290 114 94 <fountain>
+992 1235 237 167 <middle home 22>
+1152 1393 77 144 <middle home 23>
+1278 1380 83 156 <middle home 24>
+1235 1233 184 121 <middle home 25>
+719 1200 715 32 <tables>
+272 583 269 88 <middle left home fix 1>
+1034 672 36 49 <middle down home fix 1>
+1063 702 38 51 <middle down home fix 2>
+606 319 191 125 <middle up home fix 1>
+648 414 150 41  <middle home fix 2>
+719 1346 10 139 <down border fix 1>
+651 489 5 55 <middle border fix 1>
+650 541 7 61  <middle border fix 2>
+647 429 6 175 <middle border fix 3>
+648 543 135 63 <middle border fix 4>
+722 1201 512 47 <down home fix 1>
+1154 1209 80 185 <down home fix 2>
+1432 640 5 529 <right down border fix 1>
+1432 1138 6 67 <right down border fix 2>

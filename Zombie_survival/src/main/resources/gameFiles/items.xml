@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<class>
+    <item>
+        <id>0</id>
+        <name>Knife</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>10</dmg>
+        <speed>-1</speed>
+        <desc>This is a knife</desc>
+        <price>2</price>
+    </item>
+
+    <item>
+        <id>1</id>
+        <name>Pistol</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>10</dmg>
+        <speed>-1</speed>
+        <desc>This is a pistol</desc>
+        <price>10</price>
+
+    </item>
+
+    <item>
+        <id>2</id>
+        <name>Tomato soup</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>50</food_regen>
+        <hp>-1</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a tomato soup</desc>
+        <price>5</price>
+    </item>
+
+    <item>
+        <id>3</id>
+        <name>Light Jacket</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>10</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a light jacket</desc>
+        <price>2</price>
+        <price>5</price>
+    </item>
+
+    <item>
+        <id>4</id>
+        <name>Brass Knuckles</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>15</dmg>
+        <speed>-1</speed>
+        <desc>These are Brass knuckles</desc>
+        <price>3</price>
+
+    </item>
+
+    <item>
+        <id>5</id>
+        <name>SMG</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>20</dmg>
+        <speed>-1</speed>
+        <desc>This is a SMG</desc>
+        <price>10</price>
+
+    </item>
+
+    <item>
+        <id>6</id>
+        <name>Water</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>50</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a bottle of water</desc>
+        <price>5</price>
+
+    </item>
+
+    <item>
+        <id>7</id>
+        <name>Leather Jacket</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>20</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a leather jacket</desc>
+        <price>10</price>
+
+    </item>
+
+    <item>
+        <id>8</id>
+        <name>Fire Axe</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>20</dmg>
+        <speed>-1</speed>
+        <desc>This is a Fire Axe</desc>
+        <price>10</price>
+
+    </item>
+
+    <item>
+        <id>9</id>
+        <name>Shotgun</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>15</dmg>
+        <speed>-1</speed>
+        <desc>This is a shotgun</desc>
+        <price>20</price>
+    </item>
+
+    <item>
+        <id>10</id>
+        <name>Med-kit</name>
+        <hp_regen>50</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a med kit</desc>
+        <price>6</price>
+    </item>
+
+    <item>
+        <id>11</id>
+        <name>Civilian armor</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>25</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a civilian armor</desc>
+        <price>20</price>
+
+    </item>
+
+    <item>
+        <id>12</id>
+        <name>Katana</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>25</dmg>
+        <speed>-1</speed>
+        <desc>This is a katana</desc>
+        <price>20</price>
+
+    </item>
+
+    <item>
+        <id>13</id>
+        <name>AK-47</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>35</dmg>
+        <speed>-1</speed>
+        <desc>This is AK-47</desc>
+        <price>30</price>
+
+    </item>
+
+    <item>
+        <id>14</id>
+        <name>Sneakers</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>-1</hp>
+        <dmg>-1</dmg>
+        <speed>0.7</speed>
+        <desc>Simple sneakers</desc>
+        <price>10</price>
+
+    </item>
+
+    <item>
+        <id>15</id>
+        <name>Military Vest</name>
+        <hp_regen>-1</hp_regen>
+        <water_regen>-1</water_regen>
+        <food_regen>-1</food_regen>
+        <hp>40</hp>
+        <dmg>-1</dmg>
+        <speed>-1</speed>
+        <desc>This is a military vest</desc>
+        <price>30</price>
+
+    </item>
+</class>

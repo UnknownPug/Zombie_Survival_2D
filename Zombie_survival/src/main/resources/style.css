@@ -1,0 +1,14 @@
+.progress-bar > .bar, .progress-bar > .track {
+    /*-fx-background-color: #FF0000;*/
+    -fx-background-insets: 0;
+}
+.progress-bar .bar {
+    -fx-background-color:#FF0000;
+}
+
+/*#HBoxName{*/
+/*    -fx-background-image: url("images/background.png");*/
+/*    -fx-background-repeat: stretch;*/
+/*    -fx-background-size: 1000 700;*/
+/*    -fx-background-position: center center;*/
+/*}*/

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<company>
+
+    <player_start>
+        <hp>100</hp>
+        <gold>0</gold>
+        <speed>2</speed>
+        <dmg>8</dmg>
+        <exp>0</exp>
+        <water>100</water>
+        <food>100</food>
+        <run_multiplier>3</run_multiplier>
+    </player_start>
+
+    <enemies>
+        <enemy1_hp>30</enemy1_hp>
+        <enemy2_hp>60</enemy2_hp>
+        <enemy3_hp>100</enemy3_hp>
+
+        <enemy1_dmg>5</enemy1_dmg>
+        <enemy2_dmg>8</enemy2_dmg>
+        <enemy3_dmg>10</enemy3_dmg>
+
+        <enemy1_speed>1</enemy1_speed>
+        <enemy2_speed>1.2</enemy2_speed>
+        <enemy3_speed>1.3</enemy3_speed>
+
+
+    </enemies>
+
+    <World>
+        <agr_range>100</agr_range>
+        <agr_speed_modifier>1.2</agr_speed_modifier>
+        <escaped_range>200</escaped_range>
+        <zombie1_yield>3</zombie1_yield>
+        <zombie2_yield>5</zombie2_yield>
+        <zombie3_yield>10</zombie3_yield>
+        <supply_time>2000</supply_time>
+
+    </World>
+
+    <Animation>
+        <player_male_walk_cells>9 4</player_male_walk_cells>
+        <player_female_walk_cells>9 4</player_female_walk_cells>
+        <enemy1_walk_cells>9 4</enemy1_walk_cells>
+        <enemy2_walk_cells>9 4</enemy2_walk_cells>
+        <enemy3_walk_cells>9 4</enemy3_walk_cells>
+
+        <player_male_attack_cells>6 4</player_male_attack_cells>
+        <player_female_attack_cells>6 4</player_female_attack_cells>
+        <enemy1_attack_cells>6 4</enemy1_attack_cells>
+        <enemy2_attack_cells>6 4</enemy2_attack_cells>
+        <enemy3_attack_cells>6 4</enemy3_attack_cells>
+
+        <player_male_die_cells>6 1</player_male_die_cells>
+        <player_female_die_cells>6 1</player_female_die_cells>
+        <enemy1_die_cells>6 1</enemy1_die_cells>
+        <enemy2_die_cells>6 1</enemy2_die_cells>
+        <enemy3_die_cells>6 1</enemy3_die_cells>
+        <frame_time>0.2</frame_time>
+    </Animation>
+
+    <GUI>
+        <fullscreen>false</fullscreen>
+        <volume>0.1</volume>
+    </GUI>
+
+    <paths>
+        <bg>/gameFiles/map/map.png</bg>
+        <bg_overlay>/gameFiles/map/mapWithObst.png</bg_overlay>
+        <load_screen>/gameFiles/loginScreen/loginScreen.jpg</load_screen>
+        <load_music>/gameFiles/music/login.mp3</load_music>
+
+        <player_male_walk>/gameFiles/characters/male/maleWalk.png</player_male_walk>
+        <enemy1_walk>/gameFiles/characters/zombie/enemy1Walk.png</enemy1_walk>
+        <enemy2_walk/>
+        <enemy3_walk/>
+
+        <player_male_attack>/gameFiles/characters/male/maleAttack.png</player_male_attack>
+        <enemy1_attack>/gameFiles/characters/zombie/enemy1Attack.png</enemy1_attack>
+        <enemy2_attack/>
+        <enemy3_attack/>
+
+        <player_male_die>/gameFiles/characters/male/maleDeath.png</player_male_die>
+        <enemy1_die>/gameFiles/characters/zombie/enemy1Death.png</enemy1_die>
+        <enemy2_die/>
+        <enemy3_die/>
+
+        <obstacles>/obstacles.txt</obstacles>
+        <quid_dialogue>/gameFiles/gameElements/quitStage.png</quid_dialogue>
+        <items_config>/gameFiles/items.xml</items_config>
+        <items_path>/gameFiles/characters/items/items.png</items_path>
+        <shop_bg>/gameFiles/gameElements/quitStage.png</shop_bg>
+        <shop_bg2>/gameFiles/gameElements/shopMenu.png</shop_bg2>
+        <upper_menu>/gameFiles/gameElements/upperMenu.png</upper_menu>
+        <style>src/main/java/resources/style.css</style>
+
+        <health_icon>/gameFiles/gameElements/heartIcon.png</health_icon>
+        <money_icon>/gameFiles/gameElements/moneyIcon.png</money_icon>
+        <food_icon>/gameFiles/gameElements/foodIcon.png</food_icon>
+        <water_icon>/gameFiles/gameElements/waterIcon.png</water_icon>
+        <dmg_icon>/gameFiles/gameElements/damageIcon.png</dmg_icon>
+        <speed_icon>/gameFiles/gameElements/speedIcon.png</speed_icon>
+    </paths>
+</company>
