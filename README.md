@@ -10,10 +10,11 @@
 
 -- -- -- --
 ### This is main UML diagram of game project ([Powered by draw.io](https://app.diagrams.net)):
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/3e15591f91456f01ced6e6fca65a8269/Zombie_survival_drawio.png)
+![[Image description]](https://user-images.githubusercontent.com/73190129/169329436-f38cb826-c2a2-4839-89d7-be650e5d9c84.png)
 -- -- -- --
 ### Also we can see more readable version of UML diagram ([Powered by IntelliJ Ultimate](https://www.jetbrains.com/help/idea/class-diagram.html)):
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/fb383a0ccde5d0344be005b33b8456a8/Zombie_survival_intellij.png)
+![[Image description]](https://user-images.githubusercontent.com/73190129/169330141-ccb24ed6-c131-445b-8516-c4416c35d537.png)
+
 -- -- -- --
 
 ### Manual
@@ -246,19 +247,23 @@ In the menu the player will be given three buttons:
     5 - Ready to go!
 
 #### Menu:
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/2856b6dd8ad29a90203f681d7046d2a7/ZpmbieSurvivalMenu.png)
+<img width="1440" alt="ZpmbieSurvivalMenu" src="https://user-images.githubusercontent.com/73190129/169330689-461482c9-c591-4f9d-918f-f377daaad398.png">
 
 #### Options:
-![[Screen size on MacOS]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/1be26be37ce4b7981dc8bdbb66b1c361/Zombie_gif.mov)
+![[Screen size on MacOS]]
+
+https://user-images.githubusercontent.com/73190129/169331579-00ab7fc4-5ae9-4fc8-9e80-e77845924833.mov
 
 #### Gameplay:
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/f289ad7a98833d684a9f3ec0b6574543/Gameplay.jpg)
+![[Image description]](https://user-images.githubusercontent.com/73190129/169331828-5c984721-c7df-469b-b5f7-4f0dd4407d55.jpg)
 
 #### Gameplay (with tracking):
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/de1767b88c90dd7293aa51b265f1c457/Gameplay2.jpg)
+![[Image description]](https://user-images.githubusercontent.com/73190129/169331997-bf2f5f86-1026-462c-992f-8d289020ecc6.jpg)
+
 
 #### Shop: 
-![[Image description]](https://gitlab.fel.cvut.cz/B212_B0B36PJV/rastvdmy/-/wikis/uploads/4c74c27ff2d07c47b797f2eef201fb4c/Shop.jpg)
+![[Image description]](https://user-images.githubusercontent.com/73190129/169332136-576af29b-4c6e-42a2-b364-61173718b674.jpg)
+
 
 # Enjoy! 🧟‍♂️
 
