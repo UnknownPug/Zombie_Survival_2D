@@ -250,7 +250,6 @@ In the menu the player will be given three buttons:
 <img width="1440" alt="ZpmbieSurvivalMenu" src="https://user-images.githubusercontent.com/73190129/169330689-461482c9-c591-4f9d-918f-f377daaad398.png">
 
 #### Options:
-![[Screen size on MacOS]]
 
 https://user-images.githubusercontent.com/73190129/169331579-00ab7fc4-5ae9-4fc8-9e80-e77845924833.mov
 
