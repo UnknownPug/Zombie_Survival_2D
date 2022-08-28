@@ -2,7 +2,7 @@
 
 ## (CTU - Summer semester 2022)
 
-### Authors: Dmitry Rastvorov
+### Authors: Dmitry Rastvorov, Ivan Teslenko
 #### Project: GAME ENGINE (Zombie Survival)
 -- -- --
 #### The project was created with the JDK 18
@@ -120,7 +120,7 @@ In the menu the player will be given three buttons:
 
 ### Used technologies (libraries)
 
-● To create the game I used **JavaFX library**, with which I implemented animations, battles, movements and other complex aspects, which is very important to give player maximum pleasure.
+● To create the game we have used **JavaFX library**, with which we have implemented animations, battles, movements and other complex aspects, which is very important to give player maximum pleasure.
 
 #### ● Before running the game, don't forget to install **JDK 18** and be sure, that in configurations and project structure JDK is set to 18 version! 
 -- -- --
