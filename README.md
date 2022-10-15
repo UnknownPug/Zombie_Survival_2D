@@ -251,7 +251,8 @@ In the menu the player will be given three buttons:
 
 #### Options:
 
-https://user-images.githubusercontent.com/73190129/169331579-00ab7fc4-5ae9-4fc8-9e80-e77845924833.mov
+![169331579-00ab7fc4-5ae9-4fc8-9e80-e77845924833](https://user-images.githubusercontent.com/73190129/195985420-bd0be1aa-f8d5-4c4c-bca0-a7b338987c4d.gif)
+
 
 #### Gameplay:
 ![[Image description]](https://user-images.githubusercontent.com/73190129/169331828-5c984721-c7df-469b-b5f7-4f0dd4407d55.jpg)
