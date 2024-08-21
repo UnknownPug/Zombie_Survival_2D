@@ -263,7 +263,3 @@ In the menu the player will be given three buttons:
 
 #### Shop: 
 ![[Image description]](https://user-images.githubusercontent.com/73190129/169332136-576af29b-4c6e-42a2-b364-61173718b674.jpg)
-
-
-# Enjoy! 🧟‍♂️
-
